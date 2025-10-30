@@ -1,4 +1,4 @@
-# 🚀 Postman Flows & AI Agent - Complete Guide
+# 🤖 Postman Flows & AI Agent - Complete Guide
 
 > Harness the Power of Visual API Workflows and AI-Driven Development
 
